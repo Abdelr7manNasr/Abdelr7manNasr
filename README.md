@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abdelr7manNasr.
+- 👋 Hi, I’m Abdelrhman Nasr.
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning Problem Solving/c++/java/oop.
+- 🌱 I’m currently learning java back-end development.
 
 
 <!---
