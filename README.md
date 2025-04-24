@@ -39,9 +39,11 @@ I’m Abdelrhman Nasr, a computer Science student at Menofia University, passion
 🏆 **Languages and Tools:**  
 
 <p>
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="max-width: 100%;">
+<img height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" style="max-width: 100%;">
 <img height="50" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="CPP" style="max-width: 100%;">
+<img height="50" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="html" style="max-width: 100%;">
+<img height="50" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" style="max-width: 100%;">
 <img height="50" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="JS" style="max-width: 100%;">
-<img height="50" src="https://camo.githubusercontent.com/48b94efdc616e87af298ca4f2bc15f91ad055ec2cfbb01e57467f7e5f3fce157/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f6373735f69636f6e5f3133303636312e706e67" alt="CSS" data-canonical-src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="max-width: 100%;">
-<img height="50" src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
+<img height="50" src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png" alt="git" style="max-width: 100%;">
+<img height="50" src="https://cdn-icons-png.flaticon.com/128/11376/11376339.png" alt="github" style="max-width: 100%;">
 </p>
