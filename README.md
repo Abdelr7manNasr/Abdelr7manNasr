@@ -3,7 +3,7 @@
 
 I’m Abdelrhman Nasr, a computer Science student at Menofia University, passionate about programming and Competitive programming (problem solving). I’ve already learned a significant part of the fundamentals of software engineering, and I’m continuing to build on them while focusing on the back-end Java development.
 
-📫 **Reach out to Me:**
+📫 **Links:**
 
 <p>
   <a href="https://www.linkedin.com/in/abdelrhman-nasr74/" rel="nofollow" style="margin-right: 20px;">
