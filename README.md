@@ -33,7 +33,7 @@ I’m Abdelrhman Nasr, a computer Science student at Menofia University, passion
 - 🌱 I’m currently learning Java development
 - 👀 I’m interested in learning programming.
 - 😄 Pronouns: He/him
-- 📝 [Resume]([https://github.com/suryakantamangaraj/Resume/blob/main/resume.pdf](https://drive.google.com/file/d/1MdN7C88Dbq53tR1XK9WlVNWf459bNETa/view?usp=drivesdk)) 
+- 📝 [Resume](https://drive.google.com/file/d/1MdN7C88Dbq53tR1XK9WlVNWf459bNETa/view?usp=drivesdk) 
 ##
 
 🏆 **Languages and Tools:**  
